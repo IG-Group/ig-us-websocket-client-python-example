@@ -1,0 +1,1 @@
+APPL_VER_ID:str = "FIX50SP2"
