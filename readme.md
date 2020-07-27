@@ -23,7 +23,7 @@ To run the example an [IG US](https://www.ig.com/us/welcome-page) Demo environme
 See below for how to activate the environment if you are using conda.
 
 ```
-python WebsocketClient.py --userName=a_username --password=a_password --quoteLimit=10
+python WebSocketClient.py --userName=a_username --password=a_password --quoteLimit=10
 ```
 
 By default the example will connect to the Demo environment.
